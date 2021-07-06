@@ -1,0 +1,65 @@
+.cover{
+     background: url(images/cover.jpg) no-repeat center; 
+  background-size: cover;
+  height: 800px;
+  position: relative;
+}
+}
+
+
+
+#nav{
+    font-size: 16px;
+    background: transparent;
+}
+#headings{
+    color: white;
+    margin-top: 100px;
+}
+#jumbo{
+    margin-top: 25px;
+    margin-bottom: 25px; 
+}
+.cover2{
+   
+    background:linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url(images/project3.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+    height: auto;
+    background-attachment: fixed;
+}
+.thumbnail:hover #icon{
+    background-color: white;
+    color: #C0C0C0;
+    transition: .2s;
+}
+
+#page3:hover #icon{
+    background-color: white;
+    color: #C0C0C0;
+    transition: .2s;
+}
+#block1:hover #icon{
+    background-color: white;
+    color: #C0C0C0;
+    transition: .2s;
+}
+#block2:hover #icon{
+    
+    color: #C0C0C0;
+    transition: .2s;
+}
+#blockq:hover #icon2{
+    color: white;
+    transition: .2s;
+}
+#block3:hover #icon{
+     background-color:;
+    color: #C0C0C0;
+    transition: .2s;
+}
+#tag{
+    color: #708090
+}
+
+
